@@ -1,0 +1,7 @@
+**pratical 4**
+
+**Summary**
+The factorial program was implemented using two methods: iterative and recursive. The iterative method calculates factorial using a for loop, while the recursive method calculates it by repeatedly calling the same function with a smaller value. Both methods produce the same factorial result. The time complexity of both methods is O(n).
+  
+**Conclusion**
+The iterative method is more memory-efficient because it uses O(1) space, whereas the recursive method uses O(n) space due to function calls stored in the stack. Thus, the iterative method is generally better for large values, while the recursive method is useful for understanding the concept of recursion.
