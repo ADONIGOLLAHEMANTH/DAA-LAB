@@ -1,0 +1,7 @@
+**pratical 7**
+
+**Summary**
+The Making Change Problem is solved using Dynamic Programming by dividing the problem into smaller subproblems. A DP array is used where dp[i] stores the minimum number of coins required to make amount i. The value of each dp[i] is calculated by considering every available coin and selecting the minimum possible number of coins. The base case is dp[0] = 0, because zero coins are required to make amount zero.
+  
+**Conclusion**
+The Dynamic Programming approach provides an efficient solution to the Making Change Problem by avoiding repeated calculations of the same subproblems. The algorithm successfully finds the minimum number of coins required for a given amount. It uses O(amount) space and O(amount × number of coins) time, making it suitable for solving the problem efficiently.
