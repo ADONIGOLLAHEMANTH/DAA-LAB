@@ -1,0 +1,7 @@
+**pratical 6**
+
+**Summary**
+Matrix Chain Multiplication is implemented using Dynamic Programming. The program checks different ways of splitting the matrices and stores the minimum multiplication cost in a table.
+
+**Conclusion**
+The program finds the minimum number of scalar multiplications needed to multiply the matrices efficiently. The time complexity is O(n³) and the space complexity is O(n²).
