@@ -1,0 +1,7 @@
+**pratical 5**
+
+**Summary**
+The 0/1 Knapsack problem is solved using the Dynamic Programming technique. The program considers each item and decides whether to include it or exclude it based on its weight and profit. The DP table stores the maximum profit for different capacities. The program also identifies the items selected to get the maximum profit.
+  
+**Conclusion**
+The Knapsack problem was successfully implemented using Dynamic Programming. For the given items and knapsack capacity, the program finds the maximum possible profit without exceeding the capacity. The time complexity of the algorithm is O(n × W) and the space complexity is O(n × W).
