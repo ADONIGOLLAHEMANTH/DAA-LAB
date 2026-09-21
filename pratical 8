@@ -1,0 +1,7 @@
+**PRATICAL 8 ***
+
+### Summary
+The graph was implemented using an adjacency list in Python. DFS uses recursion to explore nodes deeply, while BFS uses a queue to visit nodes level by level. Both algorithms provide efficient graph traversal with O(V + E) time complexity.
+
+### Conclusion
+The Graph, DFS, and BFS algorithms were successfully implemented in Python. DFS explores the graph deeply using recursion, while BFS explores the graph level by level using a queue. Both methods are useful for traversing and searching graph data efficiently.
