@@ -1,0 +1,11 @@
+**pratical 12**
+
+**Summary**
+The Travelling Salesman Problem (TSP) finds the minimum-cost route to visit every city exactly once and return to the starting city.
+
+**Conclusion**
+Thus, the Travelling Salesman Problem was implemented successfully in Python using permutations to find the optimal route and its minimum cost.
+
+Time Complexity: \(O(n!)\)
+
+Space Complexity: \(O(n)\) auxiliary space, excluding the input matrix.
