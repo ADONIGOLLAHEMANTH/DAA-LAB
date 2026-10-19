@@ -1,0 +1,7 @@
+**PRATICAL 11 ***
+
+### Summary
+The Floyd-Warshall algorithm is used to find the shortest paths between all pairs of vertices in a weighted graph. It updates the distance matrix by considering each vertex as an intermediate vertex.
+
+### Conclusion
+Thus, the Floyd-Warshall algorithm was successfully implemented in Python to calculate the shortest distances between all pairs of vertices in a graph.
